@@ -12,7 +12,7 @@
 			@font-face { asdf
 				font-family:'graffiti';
 				src:url("Empires.otf");
-			}
+			} 
 			* {
 				margin: 0;
 				padding: 0;
