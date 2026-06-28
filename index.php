@@ -9,7 +9,7 @@
 		<script type="text/JavaScript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js?ver=1.4.2"></script>
 		
 		<style>
-			@font-face {
+			@font-face { asdf
 				font-family:'graffiti';
 				src:url("Empires.otf");
 			}
